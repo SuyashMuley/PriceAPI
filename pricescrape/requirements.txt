@@ -3,3 +3,4 @@ djangorestframework
 bs4
 lxml
 requests
+django-crispy-forms
